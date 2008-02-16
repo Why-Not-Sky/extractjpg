@@ -1,6 +1,4 @@
-#summary One-sentence summary of this page.
-#labels Featured,Phase-Deploy,Phase-Requirements
-
+#labels Featured,Phase-Implementation
 = Introduction =
 
 "Porting" to Windows is finished (and pretty simple imho...)
