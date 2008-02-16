@@ -1,0 +1,14 @@
+#summary One-sentence summary of this page.
+#labels Featured,Phase-Deploy,Phase-Requirements
+
+= Introduction =
+
+"Porting" to Windows is finished (and pretty simple imho...)
+
+
+
+= TODO =
+
+  * A simple GUI in WX
+  * Linux version
+  * Mac version
