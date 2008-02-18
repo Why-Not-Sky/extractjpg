@@ -1,8 +1,7 @@
 #labels Featured,Phase-Implementation
 = Introduction =
 
-"Porting" to Windows is finished (and pretty simple imho...)
-
+"Porting" to Windows is almost finished
 
 
 = TODO =
@@ -10,3 +9,4 @@
   * A simple GUI in WX
   * Linux version
   * Mac version
+  * Test on Windows Vista
