@@ -3,12 +3,12 @@
 
 "Porting" to Windows is almost finished
 
-Beta2:
+= Beta2 Released =
 
-* Single File!
-* Deleted debug prints
-* When the job is finished, it prints jpg count
-* Added a main function and a input file check
+  * Single File!
+  * Deleted debug prints
+  * When the job is finished, it prints jpg count
+  * Added a main function and a input file check
 
 
 = TODO =
