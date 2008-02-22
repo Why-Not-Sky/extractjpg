@@ -1,0 +1,13 @@
+#labels Phase-Deploy,Featured
+#how to use this program
+
+= Introduction =
+
+Simply drag a pdf file to the ExtractJPGFromPDF.exe.
+Any jpgs found will be stored inside a folder with the same name of the pdf file.
+
+
+= Disclaimer =
+
+  * You assume all risk associated with the usage of this program. 
+  * Any copyrighted image or pdf can not be used without the permission of the author
