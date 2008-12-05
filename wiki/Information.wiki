@@ -1,7 +1,13 @@
 #labels Featured,Phase-Implementation
 = Introduction =
 
-"Porting" to Windows is almost finished
+
+= 05/12/2008 Beta 3 Released =
+
+  * Minor bugs corrected
+  * Disclaimer and icon added
+  * Works on Windows Vista
+
 
 = Beta2 Released =
 
@@ -13,7 +19,6 @@
 
 = TODO =
 
-  * A simple GUI in WX
+  * A graphical interface
   * Linux version
   * Mac version
-  * Test on Windows Vista
