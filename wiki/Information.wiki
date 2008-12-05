@@ -7,8 +7,8 @@
 
   * Single File!
   * Deleted debug prints
-  * When the job is finished, it prints jpg count
-  * Added a main function and a input file check
+  * When the job is finished, it prints jpg(s) count
+  * Added a main function and an input file check
 
 
 = TODO =
