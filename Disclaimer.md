@@ -1,0 +1,5 @@
+# Important #
+
+  * You assume all risks associated with the usage of this program.
+  * I cannot guarantee for any file corruption!
+  * Any copyrighted image or pdf can not be used without the permission of the author

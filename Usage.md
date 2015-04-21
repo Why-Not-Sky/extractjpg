@@ -1,0 +1,7 @@
+# How to use this application #
+
+Simply drag a pdf file to the ExtractJPGFromPDF.exe.
+Any jpg(s) found will be stored inside a folder with the same name of the pdf file.
+
+
+For any suggestion or bug report, feel free to write me or leave a message.

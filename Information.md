@@ -1,0 +1,23 @@
+# News #
+
+
+# 05/12/2008 Beta 3 Released #
+
+  * Minor bugs corrected
+  * Disclaimer and icon added
+  * Works on Windows Vista
+
+
+# Beta2 Released #
+
+  * Single File!
+  * Deleted debug prints
+  * When the job is finished, it prints jpg(s) count
+  * Added a main function and an input file check
+
+
+# TODO #
+
+  * A graphical interface
+  * Linux version
+  * Mac version
